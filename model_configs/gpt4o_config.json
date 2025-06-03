@@ -1,0 +1,16 @@
+{
+    "model_info":{
+        "provider":"gpt",
+        "name":"gpt-4o"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "YOUR_API_KEY"
+        ],
+        "api_key_use": 0
+    },
+    "params":{
+        "temperature":0.0000001,
+        "max_output_tokens":300
+    }
+}

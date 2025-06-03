@@ -1,0 +1,17 @@
+{ 
+    "model_info":{
+        "provider":"chatglm",
+        "name":"THUDM/glm-4-9b-chat",
+        "another_name":"THUDM/glm-4-9b-chat"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "YOUR_API_KEY"
+        ],
+        "api_key_use": 0
+    },
+    "params":{
+        "temperature":0.0001,
+        "max_output_tokens":100
+    }
+}

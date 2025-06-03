@@ -1,0 +1,18 @@
+{ 
+    "model_info":{
+        "provider":"llama3.1",
+        "name":"meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "another_name":"meta-llama/Meta-Llama-3.1-8B"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "YOUR_API_KEY"
+        ],
+        "api_key_use": 0
+    },
+    "params":{
+        "temperature":0.001,
+        "max_output_tokens":100
+    }
+}
+
