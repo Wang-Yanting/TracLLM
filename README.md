@@ -8,7 +8,8 @@
 This repository provides the official PyTorch implementation of our USENIX Security 2025 paper: TracLLM: A Generic Framework for Attributing Long Context LLMs.
 
 TracLLM presents a general framework for finding the critical texts within a lengthy context that contribute to the LLM's answer.
-
+### 🚀 News
+🔥 Jun 3, 2025: **We are developing more context traceback methods. Stay tuned!**
 ### 🗂️ Code Structure
 
 ```python
@@ -154,7 +155,7 @@ The citations for our attribution framework, as well as security attacks related
 ```bib
 @inproceedings{wang2025tracllm,
     title={TracLLM: A Generic Framework for Attributing Long Context LLMs},
-    author={Wang, Yanting, and Zou, Wei and Geng, Runpeng and Jia, Jinyuan},
+    author={Wang, Yanting and Zou, Wei and Geng, Runpeng and Jia, Jinyuan},
     booktitle={USENIX Security Symposium},
     year={2025}
 }
