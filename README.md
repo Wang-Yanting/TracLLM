@@ -98,7 +98,7 @@ attr.visualize_results(texts,question,answer, important_ids,importance_scores, w
 ```
 
 <p align = 'center'>
-  <img alt="Example" src='assets/example.png' width='90%'/>
+  <img alt="Example" src='assets/example.png' width='100%'/>
 </p>
 
 
